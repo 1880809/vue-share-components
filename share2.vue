@@ -41,6 +41,9 @@
 // 使用的页面
 // import share2 from '@/components/share2';
 // <share2 @close="popupShareClose"></share2>
+/*components: {
+      share2,
+},*/
 // data里  popupShareShow: false,
 // popupShareClose() {
 //   this.popupShareShow = false
