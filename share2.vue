@@ -1,19 +1,8 @@
 <template>
   <view class="content">
-
-<!--    <p class="content-text">share the chance of winning the lottery: <span class="red">1</span></p>-->
-<!--    <p class="content-text">Share to send you cash</p>-->
     <view class="content-text">分享</view>
 
-    <view class="textarea-tips">
-      社区奖池：分享奖 <br>
-      中泰智慧农场，依靠推行现代化农业的合作方式来促进社会的健康化饮食生活，这是农场的发展愿景。农场VIP订阅80%放入奖池，作为支持者的奖励，奖励自动发放。领取无上限，提款无限制。规则如下：<br><br>
-
-      1.当你1位朋友成为VIP1会员，会获得20元奖励。奖励无上限！<br>
-      2.当你1位朋友成为VIP2会员，会获得40元奖励。奖励无上限！<br><br>
-
-      2022年8月28日<br>
-      注：一切解释权归中泰智慧农场所有。
+    <view class="textarea-tips">123
     </view>
     <view class="textarea-box">
       <view class="textarea">
